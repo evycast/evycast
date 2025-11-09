@@ -1,8 +1,8 @@
-# Hola, soy Brian 👋
+# Hola, soy Evelyn 👋
 
-### Desarrollador Full Stack
+### Desarrolladora Full Stack
 
-Soy un desarrollador autodidacta con más de 10 años explorando el mundo de la programación. Lo que comenzó modificando juegos se transformó en una pasión por crear aplicaciones web que resuelven problemas reales. Actualmente me enfoco en el ecosistema de Next.js y tecnologías modernas.
+Soy una desarrolladora autodidacta con más de 8 años explorando el mundo de la programación. Lo que comenzó modificando juegos se transformó en una pasión por crear aplicaciones web que resuelven problemas reales. Actualmente me enfoco en el ecosistema de Next.js y tecnologías modernas.
 
 ## 🚀 Proyectos Destacados
 
@@ -37,7 +37,7 @@ Soy un desarrollador autodidacta con más de 10 años explorando el mundo de la 
 
 ## 🌱 En constante aprendizaje
 
-Me gusta mantenerme actualizado con las mejores prácticas de desarrollo. Actualmente profundizando en arquitectura de software, patrones de diseño y optimización de rendimiento.
+Me gusta mantenerme actualizada con las mejores prácticas de desarrollo. Actualmente profundizando en arquitectura de software, patrones de diseño y optimización de rendimiento.
 
 ## 🌟 Lo que me caracteriza
 
@@ -48,10 +48,10 @@ Me gusta mantenerme actualizado con las mejores prácticas de desarrollo. Actual
 
 ## 📫 Conectemos
 
-- **Portfolio**: [brianzelada.interup.dev](https://brianzelada.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/brianzelada](https://www.linkedin.com/in/brianzelada/)
-- **Email**: brian.zelada99@gmail.com
+- **Portfolio**: [evelyncastellano.vercel.app](https://evelyncastellano.vercel.app/)
+- **LinkedIn**: [linkedin.com/in/evelyncastellano](https://www.linkedin.com/in/evelyncastellano/)
+- **Email**: evelyncastellano1999@gmail.com
 
 ---
 
-💡 Siempre interesado en colaborar en proyectos y aprender junto a otros desarrolladores.
+💡 Siempre interesada en colaborar en proyectos y aprender junto a otros desarrolladores.
